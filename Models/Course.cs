@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace CRMEducacional.models;
+namespace CRMEducacional.Models;
 
 public class Course
 {
